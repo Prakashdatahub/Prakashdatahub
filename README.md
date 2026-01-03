@@ -3,7 +3,7 @@
 
 <p align="left">
 I am Prakash G, an aspiring Data Analyst with a strong interest in turning data into meaningful insights. 
-I work with tools like SQL, Excel, Power BI, Python, and Tableau to analyze, visualize, and communicate data effectively.
+I work with tools like <strong>SQL, Excel, Power BI, Python, and Tableau</strong> to analyze, visualize, and communicate data effectively.
 </p>
 
 - 📫 Reach me at **prakashg2374@gmail.com**
