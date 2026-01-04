@@ -12,7 +12,7 @@ I am actively seeking **entry-level Data Analyst opportunities** where I can app
 ---
 
 ###  Core Skills
-- ETL ( Extract, Transform, Load
+- ETL ( Extract, Transform, Load)
 - Data Cleaning & Data Preparation
 - Exploratory Data Analysis (EDA)  
 - SQL Queries & Joins  
