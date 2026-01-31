@@ -18,7 +18,7 @@ I am actively seeking **entry-level Data Analyst opportunities** where I can app
 - SQL Queries & Joins  
 - Excel (Pivot Tables, VLOOKUP/XLOOKUP, Charts)  
 - Power BI (DAX, KPIs, Interactive Dashboards)  
-- Python (Pandas, NumPy - basics)  
+- Python (Numpy, Pandas, Matplotlib)  
 - Data Visualization & Business Storytelling  
 
 ---
